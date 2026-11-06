@@ -14,7 +14,7 @@ Agentic AI engineer and data architect in Dubai. I build multi-agent systems for
 
 ## Currently building
 
-An autonomous job-search system in **LangGraph + LangChain**: scout, matcher, writer, applier and scheduler agents with checkpointing, long-term memory and a human-approval interrupt before anything is sent. A public clinical referral and prior-authorization copilot with an eval suite in CI follows in late November 2026.
+A public clinical referral and prior-authorization copilot: LangGraph state graph with checkpointing and human-approval interrupts, a tiered MCP server, hybrid retrieval, and an eval suite that gates CI. Repo goes public in late November 2026.
 
 ## Stack
 
