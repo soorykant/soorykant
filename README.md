@@ -1,4 +1,4 @@
-# Soorykant Suman
+# Soorykant
 
 Agentic AI engineer and data architect. I build multi-agent systems for clinics at [KeeMakr.ai](https://keemakr.ai), built a 10 TB HIPAA-grade clinical data platform from zero at NeuroDiscovery AI, and co-founded dotagent, the team behind [Nextpy](https://github.com/dot-agent/nextpy) (2.3k+ stars). B.Tech, IIT Kanpur.
 
